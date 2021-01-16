@@ -1,0 +1,18 @@
+/* Connecting fonts */
+@font-face {
+    font-family: 'OpenSans_Regular';
+    src: url(/fonts/OpenSans-Regular-webfont.eot);
+    src: url(/fonts/OpenSans-Regular-webfont.woff) format('woff'),
+         url(/fonts/OpenSans-Regular-webfont.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans_Semibold';
+    src: url(/fonts/OpenSans-Semibold-webfont.eot);
+    src: url(/fonts/OpenSans-Semibold-webfont.woff) format('woff'),
+         url(/fonts/OpenSans-Semibold-webfont.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
